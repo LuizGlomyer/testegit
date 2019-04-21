@@ -1,2 +1,6 @@
 Ola mundo
+<<<<<<< HEA
 kekekekekekekekek
+=======
+jajajajajajaja
+>>>>>>> galho
